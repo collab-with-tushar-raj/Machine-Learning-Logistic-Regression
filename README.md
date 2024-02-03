@@ -1,13 +1,13 @@
 # 1. Problem Definition
 
-During the initial start of the vaccines (particularly 2020-2021), there had been many myths and doubts going on in people's minds about it's effectiveness. Due to this, they were hesitant in taking the vaccine. This thinking could be due to various reasons like age, health issues, political trust, etc. We will be looking at all these factors and divide our problem definitions into multiple questions as below :-
+During the initial start of the vaccines (particularly 2020-2021), many myths and doubts were going on in people's minds about their effectiveness. Due to this, they were hesitant to take the vaccine. This thinking could be due to age, health issues, political trust, etc. We will be looking at all these factors and divide our problem definitions into multiple questions as below:-
 
-1. Were people with certain diseases like diabetes say that the vaccine is ineffective ?
-2. Were people with certain political beliefs say that the vaccine is ineffective ?
-3. Were people that don't belive in the science behind it say that the vaccine is ineffective ?
-4. Were people who say that the vaccines are not safe are also saying that it is ineffective ?
-5. Could profession impact the thinking of vaccine effectiveness ?
-6. Does people who think that COVID-19 is not a dangerous threat also thinks that the vaccine is ineffective ?
+1. People with diabetes say that the vaccine is ineffective.
+2. People with certain political beliefs say that the vaccine is ineffective.
+3. People who don't believe in the science behind it say the vaccine is ineffective.
+4. People who say that the vaccines are not safe are also saying that it is ineffective.
+5. Profession impacts the thinking of vaccine effectiveness.
+6. People who think that COVID-19 is not a dangerous threat also think that the vaccine is ineffective.
 
 # 2. Data description
 
